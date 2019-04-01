@@ -13,6 +13,6 @@ public class Natural
             x = x +i;
             i++;
         }
-        System.out.println("Sum of "+a+" numbers is :"+x);
+        System.out.println("Sum of natural numbers is :"+x);
     } 
 }
